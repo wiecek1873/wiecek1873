@@ -23,7 +23,7 @@ ___
 `LaTeX`
 
 ___
-| **Main projects** | _Description_                                        | _Stack_                       |
+| **Main projects** | Description                                     | Stack                       |
 | :---------------- | :--------------------------------------------------- | :---------------------------- |
 | [Cyber Fusion]    | Commercial, Android and iOS, idle tower defense game | `Unity3D`, `DOTS`, `Firebase` |
 
