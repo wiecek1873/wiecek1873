@@ -23,8 +23,9 @@ ___
 `LaTeX`
 
 ___
-| **Main projects** | Description                                     | Stack                       |
-| :---------------- | :--------------------------------------------------- | :---------------------------- |
-| [Cyber Fusion]    | Commercial, Android and iOS, idle tower defense game | `Unity3D`, `DOTS`, `Firebase` |
+| **Main projects** | Description                                     | Stack                  |
+| :---------------- | :--------------------------------------------------- | :---------------- |
+| [Cyber Fusion]    | Commercial, Android and iOS, idle tower defense game | `Unity3D`, `DOTS` |
+|                   |    ![](img/CyberFusion.png)                          |                   |
 
 [Cyber Fusion]: https://play.google.com/store/apps/details?id=com.PixelStorm.CyberPolice2&hl=pl&gl=US
