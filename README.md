@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi!
+I’m an Control Engineering & Robotics engineer in the course of doing master degree of Computer Science.
+I used to gain experience as game developer in [Pixel Storm Game Studio](https://pixelstorm.pl/).
 
-<!--
-**wiecek1873/wiecek1873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ • [LinkedIn](https://www.linkedin.com/in/goorkamateusz/)
 
-Here are some ideas to get you started:
+___
+**My interests:**
+🕹 `GameDev`
+🛠 `Software architecture`
+🗃 `Backend`
+🤖 `AI`
+⛰ `Procedural generation`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+**🔥 Favorite technologies:**
+`C#` UnityEngine
+
+**🛠 I use also:**
+`C++`
+`C`,
+`Bash`,
+`LaTeX`
+
+___
+| **Main projects** | _Description_                                        | _Stack_                       |
+| :---------------- | :--------------------------------------------------- | :---------------------------- |
+| [Cyber Fusion]    | Commercial, Android and iOS, idle tower defense game | `Unity3D`, `DOTS`, `Firebase` |
+
+[Cyber Fusion]: https://play.google.com/store/apps/details?id=com.PixelStorm.CyberPolice2&hl=pl&gl=US
