@@ -14,7 +14,7 @@ ___
 
 ___
 **🔥 Favorite technologies:**
-`C#` UnityEngine
+`C#` `UnityEngine`
 
 **🛠 I use also:**
 `C++`
