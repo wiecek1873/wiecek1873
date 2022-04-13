@@ -26,7 +26,7 @@ ___
 | **Main projects** | Description                                     | Project type           |
 | :----------------: | :---------------------------------------------------: | :----------------: |
 | [Cyber Fusion]    |![](CyberFusion.png) Android and iOS, idle tower defense game. | Commercial |
-| [World Generator] | [](https://github.com/wiecek1873/WorldGenerator/blob/main/Docs/MainImage.png) Pseudoinfinite, procedural 3D world generator in `Unity`. | Personal|
+| [World Generator] | ![](https://github.com/wiecek1873/WorldGenerator/blob/main/Docs/MainImage.png) Pseudoinfinite, procedural 3D world generator in `Unity`. | Personal|
 | [PirateSaga]      | ![](PirateSaga.png) MMORPG in pirate world. Play to earn.  | Commercial |
 
 [Cyber Fusion]: https://play.google.com/store/apps/details?id=com.PixelStorm.CyberPolice2&hl=pl&gl=US
