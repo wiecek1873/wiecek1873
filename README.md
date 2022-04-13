@@ -25,8 +25,7 @@ ___
 ___
 | **Main projects** | Description                                     | Stack                  |
 | :---------------- | :--------------------------------------------------- | :---------------- |
-| [Cyber Fusion]    | Commercial, Android and iOS, idle tower defense game. | `Unity3D`, `DOTS` |
-|                   |    ![](CyberFusion.png) 123                              |                   |
+| [Cyber Fusion]    |![](CyberFusion.png) Commercial, Android and iOS, idle tower defense game. | `Unity3D`, `DOTS` |
 | [World Generator] | Personal, pseudoinfinite, procedural 3D world generator. | `Unity3D`      |
 |                   | ![](https://github.com/wiecek1873/WorldGenerator/blob/main/Docs/MainImage.png)   | |
 
