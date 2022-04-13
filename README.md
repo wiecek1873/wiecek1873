@@ -23,9 +23,9 @@ ___
 `LaTeX`
   
 ___
-| **Main projects** | Description                                     | Stack                  |
+| **Main projects** | Description                                     | Project type           |
 | :---------------- | :--------------------------------------------------- | :---------------- |
-| [Cyber Fusion]    |![](CyberFusion.png) Commercial, Android and iOS, idle tower defense game. | `Unity3D`, `DOTS` |
+| [Cyber Fusion]    |![](CyberFusion.png) Android and iOS, idle tower defense game. | Commercial |
 | [World Generator] | Personal, pseudoinfinite, procedural 3D world generator. | `Unity3D`      |
 |                   | ![](https://github.com/wiecek1873/WorldGenerator/blob/main/Docs/MainImage.png)   | |
 
