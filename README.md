@@ -27,9 +27,9 @@ ___
 | :----------------: | :---------------------------------------------------: | :----------------: |
 | [Cyber Fusion]    |![](CyberFusion.png) Android and iOS, idle tower defense game. | Commercial [PixelStorm] |
 | [World Generator] | ![](https://github.com/wiecek1873/WorldGenerator/blob/main/Docs/MainImage.png) Pseudoinfinite, procedural 3D world generator in `Unity`. | Personal|
-| [PirateSaga]      | ![](PirateSaga.png) MMORPG in pirate world. Play to earn.  | Commercial [PixelStorm] |
+| [Pirate Saga]      | ![](PirateSaga.png) MMORPG in pirate world. Play to earn.  | Commercial [Pixel Storm] |
 
-[PixelStorm]: https://pixelstorm.pl/
+[Pixel Storm]: https://pixelstorm.pl/
 [Cyber Fusion]: https://play.google.com/store/apps/details?id=com.PixelStorm.CyberPolice2&hl=pl&gl=US
 [World Generator]: https://github.com/wiecek1873/WorldGenerator
 [Pirate Saga]: https://www.facebook.com/PiratesSaga/videos/394644138877536
