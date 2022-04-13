@@ -32,4 +32,4 @@ ___
 [PixelStorm]: https://pixelstorm.pl/
 [Cyber Fusion]: https://play.google.com/store/apps/details?id=com.PixelStorm.CyberPolice2&hl=pl&gl=US
 [World Generator]: https://github.com/wiecek1873/WorldGenerator
-[PirateSaga]: https://www.facebook.com/PiratesSaga/videos/394644138877536
+[Pirate Saga]: https://www.facebook.com/PiratesSaga/videos/394644138877536
