@@ -24,12 +24,12 @@ ___
 `LaTeX`
   
 ___
-| **Main projects**        | Description                                     | Project type           |
-| :----------------------: | :---------------------------------------------------: | :----------------: |
-| [Fear Effect Reinvented] | ![]()
-| [Pirate Saga] `2022`     | ![](PirateSaga.png) MMORPG in pirate world. Play to earn.  | Commercial [Pixel Storm] |
-| [World Generator] `2021` | ![](https://github.com/wiecek1873/WorldGenerator/blob/main/Docs/MainImage.png) Pseudoinfinite, procedural 3D world generator in `Unity`. | Personal|
-| [Cyber Fusion] `2021`    |![](CyberFusion.png) Android and iOS, idle tower defense game. | Commercial [Pixel Storm] |
+| **Main projects**               | Description                                     | Project type           |
+| :----------------------:        | :---------------------------------------------------: | :----------------: |
+| [Fear Effect Reinvented] `2023` | ![]()                                                 |  Commercial [MegaPixel Studio] |
+| [Pirate Saga] `2022`            | ![](PirateSaga.png) MMORPG in pirate world. Play to earn.  | Commercial [Pixel Storm] |
+| [World Generator] `2021`        | ![](https://github.com/wiecek1873/WorldGenerator/blob/main/Docs/MainImage.png) Pseudoinfinite, procedural 3D world generator. | Personal|
+| [Cyber Fusion] `2021`           |![](CyberFusion.png) Android and iOS, idle tower defense game. | Commercial [Pixel Storm] |
 
 [Pixel Storm]: https://pixelstorm.pl/
 [Cyber Fusion]: https://play.google.com/store/apps/details?id=com.PixelStorm.CyberPolice2&hl=pl&gl=US
