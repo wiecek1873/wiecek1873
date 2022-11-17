@@ -1,4 +1,4 @@
-### Hi!
+### Hi! I've always wanted to make video games, so I do
 I’m an Control Engineering & Robotics engineer in the course of doing master degree of Computer Science.
 I used to gain experience as game developer in [Pixel Storm Game Studio](https://pixelstorm.pl/).
 
