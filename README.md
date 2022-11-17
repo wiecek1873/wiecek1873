@@ -26,6 +26,7 @@ ___
 ___
 | **Main projects**        | Description                                     | Project type           |
 | :----------------------: | :---------------------------------------------------: | :----------------: |
+| [Fear Effect Reinvented] | ![]()
 | [Pirate Saga] `2022`     | ![](PirateSaga.png) MMORPG in pirate world. Play to earn.  | Commercial [Pixel Storm] |
 | [World Generator] `2021` | ![](https://github.com/wiecek1873/WorldGenerator/blob/main/Docs/MainImage.png) Pseudoinfinite, procedural 3D world generator in `Unity`. | Personal|
 | [Cyber Fusion] `2021`    |![](CyberFusion.png) Android and iOS, idle tower defense game. | Commercial [Pixel Storm] |
@@ -34,3 +35,6 @@ ___
 [Cyber Fusion]: https://play.google.com/store/apps/details?id=com.PixelStorm.CyberPolice2&hl=pl&gl=US
 [World Generator]: https://github.com/wiecek1873/WorldGenerator
 [Pirate Saga]: https://www.facebook.com/PiratesSaga/videos/394644138877536
+
+[MegaPixel Studio]: https://megapixel-studio.com/
+[Fear Effect Reinvented]: https://www.youtube.com/watch?v=tkxIJuzBH1Y&ab_channel=ForeverEntertainment
