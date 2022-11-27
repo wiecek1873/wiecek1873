@@ -21,7 +21,7 @@ ___
 `LaTeX`
   
 ___
-| **Main projects**               | Description                                     | Project type           |
+| **Title**               | Description                                     | Project type           |
 | :----------------------:        | :---------------------------------------------------: | :----------------: |
 | [Fear Effect Reinvented] `2022` | ![]()                                                 |  Commercial [MegaPixel Studio] |
 | [Pirate Saga] `2022`            | ![](PirateSaga.png) MMORPG in pirate world. Play to earn.  | Commercial [Pixel Storm] |
