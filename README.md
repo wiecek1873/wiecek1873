@@ -31,7 +31,7 @@ ___
 [Pixel Storm]: https://pixelstorm.pl/
 [Cyber Fusion]: https://play.google.com/store/apps/details?id=com.PixelStorm.CyberPolice2&hl=pl&gl=US
 [World Generator]: https://github.com/wiecek1873/WorldGenerator
-[Pirate Saga]: https://www.facebook.com/PiratesSaga/videos/394644138877536
+[Pirate Saga]: https://www.youtube.com/watch?v=K12RCeAFSE4&ab_channel=bkazmierczakful
 
 [MegaPixel Studio]: https://megapixel-studio.com/
 [Fear Effect Reinvented]: https://www.youtube.com/watch?v=tkxIJuzBH1Y&ab_channel=ForeverEntertainment
