@@ -1,6 +1,7 @@
 ### Hi! I've always wanted to make video games, so I do
 
  * [LinkedIn](https://www.linkedin.com/in/micha%C5%82-wi%C4%99cek-8286b1206/)
+ * [Recruitment tasks](https://github.com/stars/wiecek1873/lists/recruitment-tasks)
  
 ___
 **My interests:**
