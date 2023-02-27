@@ -2,7 +2,7 @@
 
  * [LinkedIn](https://www.linkedin.com/in/micha%C5%82-wi%C4%99cek-8286b1206/)
  * [Personal projects](https://github.com/stars/wiecek1873/lists/personal-unity-projects)
- * [Code samples](https://github.com/stars/wiecek1873/lists/recruitment-tasks)
+ * [Code samples](https://github.com/stars/wiecek1873/lists/code-samples)
  
 ___
 **My interests:**
