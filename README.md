@@ -1,4 +1,4 @@
-### Hi! I've always wanted to make video games, so I do
+### Hi!
 
  * [LinkedIn](https://www.linkedin.com/in/micha%C5%82-wi%C4%99cek-8286b1206/)
  * [Personal projects](https://github.com/stars/wiecek1873/lists/personal-unity-projects)
@@ -6,21 +6,15 @@
  
 ___
 **My interests:**
-🕹 `GameDev`
 🛠 `Software architecture`
+🕹 `Game Devevelopment`
 🗃 `Backend`
 🤖 `AI`
 ⛰ `Procedural generation`
 
 ___
 **🔥 Favorite technologies:**
-`C#` `UnityEngine`
-
-**🛠 I use also:**
-`C++`
-`C`,
-`Bash`,
-`LaTeX`
+`.Net`, `C++`, `C`, `Markdown`, `Latex`, `Python`
   
 ___
 | **Title**               | Description                                     | Project type           |
