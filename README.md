@@ -13,8 +13,8 @@ ___
 ⛰ `Procedural generation`
 
 ___
-**🔥 Favorite technologies:**
-`.Net`, `C++`, `C`, `Markdown`, `Latex`, `Python`
+**Technologies:**
+`.Net` `Markdown` `Latex` `Python` `C++` `C`
   
 ___
 | **Title**               | Description                                     | Project type           |
