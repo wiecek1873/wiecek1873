@@ -7,9 +7,9 @@
 ___
 **My interests:**
 🛠 `Software architecture`
-🕹 `Game Devevelopment`
 🗃 `Backend`
 🤖 `AI`
+🕹 `Game Devevelopment`
 ⛰ `Procedural generation`
 
 ___
