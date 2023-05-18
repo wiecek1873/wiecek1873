@@ -9,7 +9,6 @@ ___
 🗃 `Backend`
 🤖 `AI`
 🖥 `Web scraping`
-🕹 `Game Devevelopment`
 ⛰ `Procedural generation`
 
 ___
