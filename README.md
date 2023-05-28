@@ -1,7 +1,8 @@
 ### Hi!
 
  * [LinkedIn](https://www.linkedin.com/in/micha%C5%82-wi%C4%99cek-8286b1206/)
- * [Personal projects](https://github.com/stars/wiecek1873/lists/personal-unity-projects)
+ * [Personal unity projects](https://github.com/stars/wiecek1873/lists/personal-unity-projects)
+ * [Personal projects](https://github.com/stars/wiecek1873/lists/personal-projects)
  
 ___
 **My interests:**
