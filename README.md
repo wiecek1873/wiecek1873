@@ -14,7 +14,7 @@ ___
 
 ___
 **Technologies:**
-`.Net` `C#` `Unity` `Markdown` `Latex` `Python` `C++` `C`
+<`.Net` `C#` `Unity` `Markdown` `Latex` `Python` `C++` `C`>
   
 ___
 | **Title**               | Description                                     | Project type           |
