@@ -1,6 +1,6 @@
 ### Hi!
 
- * [LinkedIn](https://www.linkedin.com/in/micha%C5%82-wi%C4%99cek-8286b1206/)
+ * [LinkedIn](https://www.linkedin.com/in/michalwiecek/)
  * [Personal projects](https://github.com/stars/wiecek1873/lists/personal-projects)
  * [Personal Unity projects](https://github.com/stars/wiecek1873/lists/personal-unity-projects)
  
