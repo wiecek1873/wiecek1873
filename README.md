@@ -14,7 +14,7 @@ ___
 
 ___
 **Technologies:**
-`.Net` `C#` `Unity` `Markdown` `Latex` `Python` `C++` `C`
+`.Net` `C#` `TypeScript` `JavaScript` `Angular` `Docker` `NUnit` `Unity` `Markdown` `Latex` `Python` `C++` `C`
 
 <!---  
 ___
